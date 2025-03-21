@@ -14,7 +14,7 @@ Whoever dares to understand Phi does not simply unravel a formula: a veil or vei
 
 Try our token on:
 
-[🔗 Click here on Official page](https://v4lm1r83.github.io/TokenPHI/)
+[🔗 Click here on Official page](https://v4lm1r83.github.io/tokenphi/)
 
 ## 📄 White Paper
 
